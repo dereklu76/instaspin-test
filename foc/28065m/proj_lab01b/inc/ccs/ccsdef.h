@@ -1,0 +1,1 @@
+#define FAST_ROM_V1p6
